@@ -1,0 +1,9 @@
+{
+  "skills": {
+    "title": "Skills & Expertise",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "DevOps",
+    "technologies": "Technologies"
+  }
+} 
